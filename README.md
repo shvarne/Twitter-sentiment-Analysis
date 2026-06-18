@@ -1,8 +1,8 @@
 # Twitter Sentiment Analysis
 
- ## Note
+## Note
 
-Twitter_sentiment_analysis.ipynb and vectorizer.pkl were omitted due to GitHub web upload size limitations.
+Due to GitHub's web upload size limitations, `Twitter_sentiment_analysis.ipynb` and `vectorizer.pkl` are not included in this repository.
 
 ## Project Overview
 
