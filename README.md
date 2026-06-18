@@ -1,5 +1,9 @@
 # Twitter Sentiment Analysis
 
+ ## Note
+
+Twitter_sentiment_analysis.ipynb and vectorizer.pkl were omitted due to GitHub web upload size limitations.
+
 ## Project Overview
 
 This project is a Twitter Sentiment Analysis web application built using Machine Learning, Natural Language Processing (NLP), and Streamlit.
